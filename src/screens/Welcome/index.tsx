@@ -24,7 +24,7 @@ const WelcomeScreen = ({ navigation }: any) => {
 
       <CustomButton
         onPress={navigateToChoice}
-        title="Escolher gato"
+        title="Escolher seu gato"
         buttonStyle={{ backgroundColor: colors.bg }}
         textStyle={{ color: colors.accent }}
       />
