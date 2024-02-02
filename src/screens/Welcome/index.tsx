@@ -26,7 +26,7 @@ const WelcomeScreen = ({ navigation }: any) => {
         onPress={navigateToChoice}
         title="Escolher gato"
         buttonStyle={{ backgroundColor: colors.bg }}
-        textStyle={{ color: colors.primary }}
+        textStyle={{ color: colors.accent }}
       />
     </View>
   );

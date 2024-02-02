@@ -56,7 +56,7 @@ const CongratulationsScreen = ({ route, navigation }: any) => {
       />
       <CustomButton
         buttonStyle={{ backgroundColor: colors.bg }}
-        textStyle={{ color: colors.primary }}
+        textStyle={{ color: colors.accent }}
         title="Enviar Pedido de Adoção"
         onPress={handleBackToMenu}
       />

@@ -1,5 +1,5 @@
 import React from "react";
-import { TouchableOpacity, View, Text, StyleSheet } from "react-native";
+import { TouchableOpacity, Text, StyleSheet } from "react-native";
 import colors from "../constants/Colors";
 
 export default function CustomButton({
@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
     borderRadius: 25,
     borderWidth: 1,
     backgroundColor: colors.bg,
-    borderColor: colors.primary,
+    borderColor: colors.accent,
     padding: 10,
     marginTop: 30,
     alignItems: "center",

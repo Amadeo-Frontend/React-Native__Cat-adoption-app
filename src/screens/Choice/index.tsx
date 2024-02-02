@@ -3,6 +3,7 @@ import { View, Text, Image } from "react-native";
 import { styles } from "./styles";
 import CustomButton from "../../components/button";
 import { fetchCatImage } from "../../api/api";
+import colors from "../../constants/Colors";
 
 const ChoiceScreen = ({ navigation }: any) => {
   const [catImage, setCatImage] = useState<string | null>(null);
@@ -42,9 +43,17 @@ const ChoiceScreen = ({ navigation }: any) => {
         </View>
       )}
       {/* Botão para escolher outro */}
-      <CustomButton title="PROXIMO GATO" onPress={handleChooseAnother} />
+      <CustomButton
+        title="PROXIMO GATO"
+        onPress={handleChooseAnother}
+        textStyle={{ color: colors.accent }}
+      />
       {/* Botão para escolher e ir para a página de Congratulations */}
-      <CustomButton title="ADOTAR 🥰" onPress={handleChoose} />
+      <CustomButton
+        title="ADOTAR 🥰"
+        onPress={handleChoose}
+        textStyle={{ color: colors.accent }}
+      />
     </View>
   );
 };
