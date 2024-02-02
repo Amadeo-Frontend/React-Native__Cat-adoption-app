@@ -34,13 +34,17 @@ const ChoiceScreen = ({ navigation }: any) => {
 
   return (
     <View style={styles.container}>
-      <Text>Adote o seu gato:</Text>
+      <Text style={styles.title}>Adote o seu gato:</Text>
       {/* Exibe a imagem do gato se estiver disponível */}
-      {catImage && <Image source={{ uri: catImage }} style={styles.catImage} />}
+      {catImage && (
+        <View style={styles.imageContainer}>
+          <Image source={{ uri: catImage }} style={styles.catImage} />
+        </View>
+      )}
       {/* Botão para escolher outro */}
-      <CustomButton title="Escolher Outro" onPress={handleChooseAnother} />
+      <CustomButton title="PROXIMO GATO" onPress={handleChooseAnother} />
       {/* Botão para escolher e ir para a página de Congratulations */}
-      <CustomButton title="Escolher" onPress={handleChoose} />
+      <CustomButton title="ADOTAR 🥰" onPress={handleChoose} />
     </View>
   );
 };

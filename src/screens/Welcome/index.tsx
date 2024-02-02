@@ -19,8 +19,8 @@ const WelcomeScreen = ({ navigation }: any) => {
       <View style={styles.imgContainer}>
         <Image source={catImg} style={{ height: wp(80), width: hp(45) }} />
       </View>
-      <Text style={styles.title}>Bem-vindo ao Cat Choice!</Text>
-      {/* Adicione um botão para ir para a tela de escolha */}
+      <Text style={styles.title}>Bem-vindo ao Cat Adoption!</Text>
+      <Text style={styles.subTitle}>Escolha seu novo amigo felino 🐱</Text>
 
       <CustomButton
         onPress={navigateToChoice}

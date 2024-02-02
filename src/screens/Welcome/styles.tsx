@@ -27,4 +27,8 @@ export const styles = StyleSheet.create({
     textAlign: "center",
     marginBottom: hp(2),
   },
+  subTitle: {
+    color: colors.secundary,
+    fontSize: hp(2.5),
+  },
 });
