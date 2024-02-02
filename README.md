@@ -16,6 +16,14 @@ Bem-vindo ao nosso Cat Adoption 🐱! Este aplicativo foi desenvolvido para prop
 
 3. **Agradecimento e Mensagem de Confirmação:**
    - Após inserir o e-mail, você receberá uma mensagem de agradecimento e uma confirmação da sua escolha.
+  
+## Demonstração ▶
+
+
+
+https://github.com/Amadeo-Frontend/React-Native__Cat-adoption-app/assets/104178969/5329567e-af02-4f42-b325-3928433d6589
+
+
 
 ## 📋 Instruções de Uso:
 
