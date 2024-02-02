@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
   button: {
     width: "80%",
     borderRadius: 25,
-    borderWidth: 1,
+    borderWidth: 2,
     backgroundColor: colors.bg,
     borderColor: colors.accent,
     padding: 10,
