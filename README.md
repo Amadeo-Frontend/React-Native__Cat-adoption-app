@@ -1,8 +1,8 @@
-**Aplicativo de Adoção de Gatos**
+# Aplicativo de Adoção de Gatos
 
 Bem-vindo ao nosso Cat Adoption 🐱! Este aplicativo foi desenvolvido para proporcionar uma experiência interativa e divertida para os amantes de gatos que desejam adotar um novo amigo peludo. Abaixo estão algumas informações sobre como usar o aplicativo e suas principais funcionalidades.
 
-### 📱 Funcionalidades Principais:
+## 📱 Funcionalidades Principais:
 
 1. **Escolha do Gato:**
 
@@ -17,7 +17,7 @@ Bem-vindo ao nosso Cat Adoption 🐱! Este aplicativo foi desenvolvido para prop
 3. **Agradecimento e Mensagem de Confirmação:**
    - Após inserir o e-mail, você receberá uma mensagem de agradecimento e uma confirmação da sua escolha.
 
-### 📋 Instruções de Uso:
+## 📋 Instruções de Uso:
 
 1. **Tela de Escolha:**
 
@@ -36,7 +36,7 @@ Bem-vindo ao nosso Cat Adoption 🐱! Este aplicativo foi desenvolvido para prop
 
    Agradeço por escolher meu aplicativo de adoção de gatos! 🐾
 
-### ⚛ Desenvolvimento:
+## ⚛ Desenvolvimento:
 
 - O aplicativo foi desenvolvido utilizando React Native, Axios para chamadas de API e React Navigation para navegação entre telas. A API utilizada para obter imagens de gatos é a TheCatAPI.
 
