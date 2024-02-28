@@ -21,9 +21,6 @@ Bem-vindo ao nosso Cat Adoption 🐱! Este aplicativo foi desenvolvido para prop
 3. **Agradecimento e Mensagem de Confirmação:**
    - Após inserir o e-mail, você receberá uma mensagem de agradecimento e uma confirmação da sua escolha.
   
-## Live
-  
- https://expo.dev//accounts/amadeo82/projects/cat-adoption/builds/119d48c5-b5b4-4df8-b75d-3a10943fa222
   
 ## Demonstração ▶
 
