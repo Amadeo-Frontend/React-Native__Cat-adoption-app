@@ -2,6 +2,10 @@
 
 Bem-vindo ao nosso Cat Adoption 🐱! Este aplicativo foi desenvolvido para proporcionar uma experiência interativa e divertida para os amantes de gatos que desejam adotar um novo amigo peludo. Abaixo estão algumas informações sobre como usar o aplicativo e suas principais funcionalidades.
 
+## ⚛ Desenvolvimento:
+
+- O aplicativo foi desenvolvido utilizando React Native, Axios para chamadas de API e React Navigation para navegação entre telas. A API utilizada para obter imagens de gatos é a TheCatAPI.
+
 ## 📱 Funcionalidades Principais:
 
 1. **Escolha do Gato:**
@@ -16,6 +20,15 @@ Bem-vindo ao nosso Cat Adoption 🐱! Este aplicativo foi desenvolvido para prop
 
 3. **Agradecimento e Mensagem de Confirmação:**
    - Após inserir o e-mail, você receberá uma mensagem de agradecimento e uma confirmação da sua escolha.
+  
+  
+## Demonstração ▶
+
+
+
+https://github.com/Amadeo-Frontend/React-Native__Cat-adoption-app/assets/104178969/5329567e-af02-4f42-b325-3928433d6589
+
+
 
 ## 📋 Instruções de Uso:
 
@@ -36,9 +49,6 @@ Bem-vindo ao nosso Cat Adoption 🐱! Este aplicativo foi desenvolvido para prop
 
    Agradeço por escolher meu aplicativo de adoção de gatos! 🐾
 
-## ⚛ Desenvolvimento:
-
-- O aplicativo foi desenvolvido utilizando React Native, Axios para chamadas de API e React Navigation para navegação entre telas. A API utilizada para obter imagens de gatos é a TheCatAPI.
 
 ## 🎯 Instruções de Uso
 
