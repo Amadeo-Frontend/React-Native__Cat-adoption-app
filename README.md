@@ -1,4 +1,4 @@
-# Aplicativo de Adoção de Gatos
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="40" height="40" />  Aplicativo de Adoção de Gatos
 
 Bem-vindo ao nosso Cat Adoption 🐱! Este aplicativo foi desenvolvido para proporcionar uma experiência interativa e divertida para os amantes de gatos que desejam adotar um novo amigo peludo. Abaixo estão algumas informações sobre como usar o aplicativo e suas principais funcionalidades.
 
